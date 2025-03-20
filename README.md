@@ -4,11 +4,14 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
 Tech Experts - Use precise terminology, assume prior knowledge, focus on advanced concepts, and minimize explanations of basics.
+
 Regular Folks - Use simple language, avoid jargon, explain concepts step by step, and use relatable examples.
 
 ## 2. What are some strategies to tailor your content to different audience types?
 Know Your Audience – Identify their expertise, interests, and needs.
+
 Adjust Language – Use technical terms for experts, plain language for general audiences.
+
 Use Relevant Examples – Industry-specific for experts, everyday analogies for non-experts.
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
